@@ -1,3 +1,7 @@
 hello 
 lets learn about git conflicts
+<<<<<<< HEAD
 Line tree from the main branch
+=======
+line three from the conflict branch.
+>>>>>>> conflict
